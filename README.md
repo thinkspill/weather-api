@@ -24,6 +24,6 @@ Deploy to your pre-existing AWS ECS cluster (cluster creation not covered here):
 
 Again, if all goes well, you should have the API accessible at http://**YOUR-ECS-IP**/temp.php?city=Kona
 
-View a currently deploy version here:
+View a currently deployed version here:
 
 [http://54.224.192.187/temp.php?city=Kona](http://54.224.192.187/temp.php?city=Kona)
