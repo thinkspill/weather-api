@@ -1,6 +1,6 @@
 # Weather API
 
-Deploys a weather API proxy to tell you the temperature for a given US state.
+Deploys a weather API proxy to tell you the temperature for a given US city.
 
 ## Local Deploy
 
