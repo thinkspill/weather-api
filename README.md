@@ -14,7 +14,7 @@ Deploy this on your local computer via Docker, after ensuring you have a relativ
 
 If all goes well, visit [http://localhost:8087/temp.php?city=Kona](http://localhost:8087/temp.php?city=Kona).
 
-## Production Deply
+## Production Deploy
 
 Deploy to your pre-existing AWS ECS cluster (cluster creation not covered here):
 
