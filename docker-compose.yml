@@ -1,14 +1,12 @@
 version: '2'
 services:
   web:
-    container_name: web
     build:
       context: ./
       dockerfile: ./Web/Dockerfile
     ports:
       - 8087:80
   worker:
-    container_name: worker
     build:
       context: ./
       dockerfile: ./Worker/Dockerfile
