@@ -12,7 +12,7 @@ Deploy this on your local computer via Docker, after ensuring you have a relativ
 ~/weather-api $ docker-compose up
 ```
 
-If all goes well, visit [http://localhost:8087/temp.php?city=Kona](http://localhost:8087/temp.php?city=Honolulu).
+If all goes well, visit [http://localhost:8087/temp.php?city=Honolulu](http://localhost:8087/temp.php?city=Honolulu).
 
 ## Production Deploy
 
